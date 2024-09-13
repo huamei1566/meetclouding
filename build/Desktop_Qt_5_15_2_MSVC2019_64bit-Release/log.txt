@@ -1,0 +1,249 @@
+2024-08-19 21:52:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-08-19 21:52:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x000000000000B54C
+2024-08-19 21:52:11 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000007CD4
+2024-08-19 21:52:11 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000009544
+2024-08-19 21:52:11 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000159C
+2024-08-19 21:52:11 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x00000000000088CC
+2024-08-19 21:52:22 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::415>>>failed to connenct 192.168.1.126:8888
+2024-08-19 21:52:27 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000159C
+2024-08-19 21:52:29 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000007CD4
+2024-08-19 21:52:29 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000009544
+2024-08-19 21:52:29 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::119>>>stop playing audio thread 0x00000000000088CC
+2024-08-19 21:52:29 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::235>>>-------------------Application End-----------------
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x0000000000006374
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000C450
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000A98C
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000B14C
+2024-08-20 14:32:11 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x000000000000A4A4
+2024-08-20 14:35:18 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000B14C
+2024-08-20 14:35:20 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000C450
+2024-08-20 14:35:22 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000A98C
+2024-08-20 14:35:22 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::119>>>stop playing audio thread 0x000000000000A4A4
+2024-08-20 14:35:22 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::235>>>-------------------Application End-----------------
+2024-08-20 16:09:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-08-20 16:09:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x0000000000006FE8
+2024-08-20 16:09:11 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000C250
+2024-08-20 16:09:11 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000B8E4
+2024-08-20 16:09:11 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000000478
+2024-08-20 16:09:11 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x0000000000007E98
+2024-08-20 16:09:20 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::407>>>succeeed connecting to 192.168.145.128:8989
+2024-08-20 16:09:34 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_createmeetBtn_clicked::256>>>create meeting
+2024-08-20 16:09:36 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::datasolve::439>>>succeed creating room 47198
+2024-08-20 16:10:03 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_exitmeetBtn_clicked::310>>>exit meeting
+2024-08-20 16:10:20 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000000478
+2024-08-20 16:10:21 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000C250
+2024-08-20 16:10:22 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000B8E4
+2024-08-20 16:10:23 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::119>>>stop playing audio thread 0x0000000000007E98
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x000000000000386C
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000004614
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000E1B4
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000E70C
+2024-08-20 16:10:49 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x000000000000E598
+2024-08-20 16:11:02 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::415>>>failed to connenct 192.168.145.128:8989
+2024-08-20 16:11:09 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::415>>>failed to connenct 192.168.145.128:8989
+2024-08-20 16:11:13 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000E70C
+2024-08-20 16:11:13 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000004614
+2024-08-20 16:11:15 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000E1B4
+2024-08-20 16:11:15 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::119>>>stop playing audio thread 0x000000000000E598
+2024-08-20 16:11:15 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::235>>>-------------------Application End-----------------
+2024-08-21 16:55:38 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 16:55:38 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000007ABC
+2024-08-21 16:55:39 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000008DCC
+2024-08-21 16:55:39 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000992C
+2024-08-21 16:55:39 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000CC38
+2024-08-21 16:55:39 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000004090
+2024-08-21 16:55:47 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000CC38
+2024-08-21 16:55:49 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000008DCC
+2024-08-21 16:55:51 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000992C
+2024-08-21 16:55:51 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000004090
+2024-08-21 16:55:51 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 16:57:56 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 16:57:56 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000005A3C
+2024-08-21 16:57:57 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000004C58
+2024-08-21 16:57:57 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000009B64
+2024-08-21 16:57:57 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000004018
+2024-08-21 16:57:57 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000004240
+2024-08-21 16:58:05 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000004018
+2024-08-21 16:58:07 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000009B64
+2024-08-21 16:58:09 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000004C58
+2024-08-21 16:58:09 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000004240
+2024-08-21 16:58:09 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x00000000000023F0
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000001824
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000AD18
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000003C74
+2024-08-21 16:58:33 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000004D98
+2024-08-21 16:58:39 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000003C74
+2024-08-21 16:58:41 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000AD18
+2024-08-21 16:58:43 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000001824
+2024-08-21 16:58:43 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000004D98
+2024-08-21 16:58:43 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 17:11:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:11:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000001E2C
+2024-08-21 17:11:11 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x00000000000040D4
+2024-08-21 17:11:11 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000005420
+2024-08-21 17:11:11 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000006C74
+2024-08-21 17:11:11 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x000000000000CAC4
+2024-08-21 17:11:15 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000006C74
+2024-08-21 17:11:17 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000005420
+2024-08-21 17:11:19 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x00000000000040D4
+2024-08-21 17:11:19 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x000000000000CAC4
+2024-08-21 17:11:19 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 17:12:18 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:12:18 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x000000000000A938
+2024-08-21 17:12:19 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000573C
+2024-08-21 17:12:19 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000002368
+2024-08-21 17:12:19 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000E018
+2024-08-21 17:12:19 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x00000000000032FC
+2024-08-21 17:12:35 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000E018
+2024-08-21 17:12:37 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000573C
+2024-08-21 17:12:39 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000002368
+2024-08-21 17:12:39 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x00000000000032FC
+2024-08-21 17:12:39 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x000000000000BDC0
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x00000000000077F4
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x00000000000075E8
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000001010
+2024-08-21 17:19:35 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x000000000000B9A8
+2024-08-21 17:19:51 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::417>>>failed to connenct 192.168.1.126:8888
+2024-08-21 17:23:39 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::417>>>failed to connenct 92.168.145.128:8989
+2024-08-21 17:23:44 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::409>>>succeeed connecting to 192.168.145.128:8989
+2024-08-21 17:24:30 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000001010
+2024-08-21 17:24:32 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x00000000000077F4
+2024-08-21 17:24:34 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x00000000000075E8
+2024-08-21 17:24:35 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x000000000000B9A8
+2024-08-21 17:24:35 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 17:24:50 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:24:50 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000001504
+2024-08-21 17:24:51 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000004608
+2024-08-21 17:24:51 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000B774
+2024-08-21 17:24:51 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000AA6C
+2024-08-21 17:24:51 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000005CAC
+2024-08-21 17:25:06 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::409>>>succeeed connecting to 192.168.145.128:8989
+2024-08-21 17:25:09 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_createmeetBtn_clicked::258>>>create meeting
+2024-08-21 17:25:10 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::datasolve::441>>>succeed creating room 2239
+2024-08-21 17:25:26 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000AA6C
+2024-08-21 17:25:27 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000004608
+2024-08-21 17:25:28 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000B774
+2024-08-21 17:25:29 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000005CAC
+2024-08-21 17:31:44 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:31:44 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000005618
+2024-08-21 17:31:45 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000C58C
+2024-08-21 17:31:45 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000003370
+2024-08-21 17:31:45 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000AE20
+2024-08-21 17:31:45 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000004F20
+2024-08-21 17:32:38 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::410>>>succeeed connecting to 192.168.145.128:8989
+2024-08-21 17:33:01 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::datasolve::467>>>meeting not exist
+2024-08-21 17:33:42 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_createmeetBtn_clicked::258>>>create meeting
+2024-08-21 17:33:43 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::datasolve::442>>>succeed creating room 2239
+2024-08-21 17:34:54 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000AE20
+2024-08-21 17:34:54 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000C58C
+2024-08-21 17:34:55 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000003370
+2024-08-21 17:34:56 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000004F20
+2024-08-21 17:35:14 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:35:14 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x00000000000016D4
+2024-08-21 17:35:15 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x00000000000020B0
+2024-08-21 17:35:15 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000006C74
+2024-08-21 17:35:15 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000AC20
+2024-08-21 17:35:15 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x000000000000E314
+2024-08-21 17:35:35 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000AC20
+2024-08-21 17:35:37 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000006C74
+2024-08-21 17:35:39 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x00000000000020B0
+2024-08-21 17:35:39 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x000000000000E314
+2024-08-21 17:35:39 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 17:36:30 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:36:30 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000000698
+2024-08-21 17:36:30 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000A468
+2024-08-21 17:36:30 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000001FDC
+2024-08-21 17:36:30 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x00000000000025D4
+2024-08-21 17:36:31 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x00000000000073C4
+2024-08-21 17:36:53 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::410>>>succeeed connecting to 192.168.145.128:8989
+2024-08-21 17:37:12 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_createmeetBtn_clicked::258>>>create meeting
+2024-08-21 17:37:49 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x00000000000025D4
+2024-08-21 17:37:50 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 17:37:50 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000009E64
+2024-08-21 17:37:51 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000E374
+2024-08-21 17:37:51 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000004068
+2024-08-21 17:37:51 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000001940
+2024-08-21 17:37:51 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000003B08
+2024-08-21 17:38:01 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::410>>>succeeed connecting to 192.168.145.128:8989
+2024-08-21 17:38:04 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_createmeetBtn_clicked::258>>>create meeting
+2024-08-21 17:38:05 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::datasolve::442>>>succeed creating room 2417
+2024-08-21 17:38:41 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000001940
+2024-08-21 17:38:43 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000E374
+2024-08-21 17:38:44 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000004068
+2024-08-21 17:38:45 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000003B08
+2024-08-21 17:38:45 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-21 22:19:17 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-21 22:19:17 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x00000000000033D8
+2024-08-21 22:19:17 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000002550
+2024-08-21 22:19:17 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x000000000000DD18
+2024-08-21 22:19:17 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000000E00
+2024-08-21 22:19:18 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000009B78
+2024-08-21 22:19:28 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::418>>>failed to connenct 192.168.1.126:8888
+2024-08-21 22:20:13 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000000E00
+2024-08-21 22:20:15 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000002550
+2024-08-21 22:20:17 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x000000000000DD18
+2024-08-21 22:20:18 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000009B78
+2024-08-21 22:20:18 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-23 11:43:18 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-23 11:43:18 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000000C84
+2024-08-23 11:43:18 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000003A30
+2024-08-23 11:43:18 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000000D94
+2024-08-23 11:43:18 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000003404
+2024-08-23 11:43:19 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x00000000000029B0
+2024-08-23 11:43:22 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000003404
+2024-08-23 11:43:24 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000003A30
+2024-08-23 11:43:26 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000000D94
+2024-08-23 11:43:27 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x00000000000029B0
+2024-08-23 11:43:27 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x00000000000049BC
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000343C
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000003794
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000000EB4
+2024-08-23 11:43:48 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000005B78
+2024-08-23 11:48:27 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::411>>>succeeed connecting to 192.168.145.128:8888
+2024-08-23 11:48:53 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000000EB4
+2024-08-23 11:48:55 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000343C
+2024-08-23 11:48:56 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000003794
+2024-08-23 11:48:57 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000005B78
+2024-08-23 11:48:57 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-08-23 13:27:56 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-08-23 13:27:56 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000001528
+2024-08-23 13:27:57 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000001EC4
+2024-08-23 13:27:57 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x00000000000013B0
+2024-08-23 13:27:57 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x000000000000365C
+2024-08-23 13:27:57 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000004C24
+2024-08-23 13:28:04 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::on_connServer_clicked::419>>>failed to connenct 192.168.1.126:8888
+2024-08-23 13:28:07 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x000000000000365C
+2024-08-23 13:28:09 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000001EC4
+2024-08-23 13:28:09 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x00000000000013B0
+2024-08-23 13:28:09 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000004C24
+2024-08-23 13:28:09 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-09-13 12:43:44 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-09-13 12:43:44 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x00000000000025F4
+2024-09-13 12:43:45 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x000000000000662C
+2024-09-13 12:43:45 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000000E34
+2024-09-13 12:43:46 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x00000000000010A8
+2024-09-13 12:43:46 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000005FFC
+2024-09-13 12:44:08 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x00000000000010A8
+2024-09-13 12:44:09 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x000000000000662C
+2024-09-13 12:44:11 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000000E34
+2024-09-13 12:44:12 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000005FFC
+2024-09-13 12:44:12 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
+2024-09-13 12:44:37 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::40>>>-------------------------Application Start---------------------------
+2024-09-13 12:44:37 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::Widget::41>>>main UI thread id: 0x0000000000005024
+2024-09-13 12:44:37 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000005EE0
+2024-09-13 12:44:37 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000003764
+2024-09-13 12:44:38 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000005288
+2024-09-13 12:44:38 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::117>>>start playing audio thread 0x0000000000002134
+2024-09-13 12:44:42 D:\qtworkspace\CloudMeeting\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000005288
+2024-09-13 12:44:44 D:\qtworkspace\CloudMeeting\sendimg.cpp:SendImg::run::33>>>stop sending picture thread: 0x0000000000005EE0
+2024-09-13 12:44:46 D:\qtworkspace\CloudMeeting\sendtext.cpp:SendText::run::48>>>stop sending text thread: 0x0000000000003764
+2024-09-13 12:44:46 D:\qtworkspace\CloudMeeting\AudioOutput.cpp:AudioOutput::run::125>>>stop playing audio thread 0x0000000000002134
+2024-09-13 12:44:46 D:\qtworkspace\CloudMeeting\widget.cpp:Widget::~Widget::237>>>-------------------Application End-----------------
